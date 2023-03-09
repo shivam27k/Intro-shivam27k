@@ -8,25 +8,25 @@
 
 ### My Skills?
 
-> Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
+>Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
 >Have a look:
 
-<img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=js&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=js&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=react&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=react&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=python&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=python&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=unity&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=unity&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="32"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="28.5"/>
+<img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="32"/>
 
 <br />
 <br />
