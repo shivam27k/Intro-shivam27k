@@ -4,13 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-shivam27k&color=blueviolet)
 
-### My Skills?
+## My Skills?
 
 > Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
 > Have a look:
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=js&theme=dark" width="32"/>
@@ -26,8 +26,6 @@
 <br />
 <br />
 
-<br />
-
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 </div>
@@ -38,6 +36,13 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=shivam27k&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </div>
+
+## Let's have a chat(I am a good storyteller):
+
+> Connect with me via these social links.
+
+<div>
+
 </div>
 
 <br />
