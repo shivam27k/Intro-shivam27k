@@ -29,6 +29,10 @@ Have a look:
 <img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="28.5"/>
 
 <br />
+<br />
+
+
+### Some stats about my github? There you go:
 
 <br />
 
