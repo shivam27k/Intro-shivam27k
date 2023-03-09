@@ -31,7 +31,7 @@ Have a look:
 <br />
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; gap: 2rem;">
+  <div style="display: flex; flex-direction: column; gap: 10rem;">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=shivam27k&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
