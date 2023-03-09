@@ -4,15 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-shivam27k&color=blueviolet)
 
-<br />
-
 ### My Skills?
 
 > Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
 > Have a look:
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center;">
 <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
 
 <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
