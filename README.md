@@ -43,15 +43,15 @@
 
 > Connect with me via these social links:
 
-<div>
+<div style="display:flex; gap:2rem;">
     <a href="https://www.facebook.com/shivam_27k" style="text-decoration: none;">
-        <img src="https://i.imgur.com/KacRLOO.png">
+        <img src="https://i.imgur.com/KacRLOO.png" width="30">
     </a>
     <a href="https://www.linkedin.com/in/shivam-27k/" style="text-decoration: none;">
-        <img src="https://i.imgur.com/1gADuIQ.png">
+        <img src="https://i.imgur.com/1gADuIQ.png" width="30">
     </a>
     <a href="https://www.instagram.com/shivam_27k" style="text-decoration: none;">
-        <img src="https://i.imgur.com/QqfGKq0.png">
+        <img src="https://i.imgur.com/QqfGKq0.png" width="30">
     </a>
 </div>
 
