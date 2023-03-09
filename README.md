@@ -43,7 +43,7 @@
 
 > Connect with me via these social links:
 
-<div style="display:flex; gap:2rem; justify-content: center">
+<div align="center">
     <a href="https://www.facebook.com/shivam_27k" style="text-decoration: none;">
         <img src="https://i.imgur.com/KacRLOO.png" width="30">
     </a>
