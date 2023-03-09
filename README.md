@@ -41,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=shivam27k&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </div>
 
-## Let's have a chat (I am a good storyteller):
+## Let's have a chat (I am a good storyteller) :speech_balloon: :
 
 > Connect with me on my socials:
 
