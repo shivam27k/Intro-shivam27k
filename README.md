@@ -26,11 +26,11 @@
 <br />
 <br />
 <br />
-<br />
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 </div>
+
 <br />
 
 ### Here are some stats of my github profile:
@@ -41,7 +41,19 @@
 
 ## Let's have a chat(I am a good storyteller):
 
-> Connect with me via these social links.
+> Connect with me via these social links:
+
+<div>
+    <a href="https://www.facebook.com/shivam_27k" style="text-decoration: none;">
+        <img src="https://i.imgur.com/KacRLOO.png">
+    </a>
+    <a href="https://www.linkedin.com/in/shivam-27k/" style="text-decoration: none;">
+        <img src="https://i.imgur.com/1gADuIQ.png">
+    </a>
+    <a href="https://www.instagram.com/shivam_27k" style="text-decoration: none;">
+        <img src="https://i.imgur.com/QqfGKq0.png">
+    </a>
+</div>
 
 <div>
 
