@@ -8,9 +8,9 @@
 
 ### My Skills?
 
->Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
+> Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
->Have a look:
+> Have a look:
 
 <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
 
@@ -31,14 +31,12 @@
 <br />
 <br />
 
-### Some stats about my github? There you go:
-
 <br />
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; gap: 10rem;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=shivam27k&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  <div style="display: flex; flex-direction: column; gap: 2rem;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam27k&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
 
