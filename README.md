@@ -10,7 +10,7 @@
 
 > Have a look:
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
 
 <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
