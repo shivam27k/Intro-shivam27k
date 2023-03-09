@@ -10,18 +10,29 @@
 
 > Have a look:
 
-<div align="center">
-    <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=js&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=react&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=python&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=unity&theme=dark" width="32"/>
-    <img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="32"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Terminal](https://img.shields.io/badge/Linux%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+<!-- <div align="center">
+
     <img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=git&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=linux&theme=dark" width="32"/>
-</div>
+</div> -->
 
 <br />
 <br />
@@ -41,22 +52,12 @@
 
 ## Let's have a chat(I am a good storyteller):
 
-> Connect with me via these social links:
+> Connect with me on my socials:
 
-<div align="center">
-    <a href="https://www.facebook.com/shivam_27k" style="text-decoration: none;">
-        <img src="https://i.imgur.com/KacRLOO.png" width="30">
-    </a>
-    <a href="https://www.linkedin.com/in/shivam-27k/" style="text-decoration: none;">
-        <img src="https://i.imgur.com/1gADuIQ.png" width="30">
-    </a>
-    <a href="https://www.instagram.com/shivam_27k" style="text-decoration: none;">
-        <img src="https://i.imgur.com/QqfGKq0.png" width="30">
-    </a>
-</div>
-
-<div>
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009137521521)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-27k/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shivam_27k)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/538734950803963924)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@MOTIVEMUSIC)
 
 <br />
