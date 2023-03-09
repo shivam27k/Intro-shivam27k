@@ -4,7 +4,9 @@
 
 ### My Skills?
 
-Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at. Have a look:
+Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
+
+Have a look:
 
 <br />
 <br />
