@@ -10,7 +10,7 @@
 
 > Have a look:
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
     <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=js&theme=dark" width="32"/>
@@ -36,7 +36,4 @@
   </div>
 </div>
 
-<br />
-<br />
-<br />
 <br />
