@@ -2,9 +2,9 @@
 
 ### You're looking at Shivam's Github Profile.
 
-<br />
-
 ![](https://komarev.com/ghpvc/?username=your-github-shivam27k&color=blueviolet)
+
+<br />
 
 ### My Skills?
 
@@ -12,6 +12,7 @@
 
 > Have a look:
 
+<div style="display: flex; justify-content: center">
 <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="32"/>
 
 <img align="left" src="https://skills.thijs.gg/icons?i=css&theme=dark" width="32"/>
@@ -27,6 +28,7 @@
 <img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="32"/>
 
 <img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="32"/>
+</div>
 
 <br />
 <br />
