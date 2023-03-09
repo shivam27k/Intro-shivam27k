@@ -2,6 +2,10 @@
 
 ### You're looking at Shivam's Github Profile.
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=your-github-shivam27k&color=blueviolet)
+
 ### My Skills?
 
 Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
@@ -22,9 +26,7 @@ Have a look:
 
 <img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="28.5"/>
 
-<img align="left" src="https://skills.thijs.gg/icons?i=&theme=dark" width="28.5"/>
-
-
+<img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="28.5"/>
 
 <br />
 
