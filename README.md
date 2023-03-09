@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-shivam27k&color=blueviolet)
 
-## :hammer_and_wrench: My Skills?
+## My Skills? :hammer_and_wrench:
 
 > Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
@@ -27,7 +27,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
 
 <br />
 <div>
