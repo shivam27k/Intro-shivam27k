@@ -8,9 +8,9 @@
 
 ### My Skills?
 
-Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
+> Well I'm good at many things, but I've tried listing a few things down here that I'm **really great** at.
 
-Have a look:
+>Have a look:
 
 <img align="left" src="https://skills.thijs.gg/icons?i=html&theme=dark" width="28.5"/>
 
@@ -30,7 +30,6 @@ Have a look:
 
 <br />
 <br />
-
 
 ### Some stats about my github? There you go:
 
