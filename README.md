@@ -19,6 +19,8 @@
     <img align="left" src="https://skills.thijs.gg/icons?i=unity&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=c#&theme=dark" width="32"/>
     <img align="left" src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="32"/>
+    <img align="left" src="https://skills.thijs.gg/icons?i=git&theme=dark" width="32"/>
+    <img align="left" src="https://skills.thijs.gg/icons?i=linux&theme=dark" width="32"/>
 </div>
 
 <br />
