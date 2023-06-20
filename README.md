@@ -55,6 +55,6 @@
 
 # Conclusion :red_circle:
 
-I hope you checkout my profile and do whatever you want with the existing repos. If you're a recruiter, `Just Hire Me`, I promise it'll be worth it.
+I hope you check out my profile and do whatever you want with the existing repos. If you're a recruiter, `Just Hire Me`, I promise it'll be worth it.
 
 Thank you :smile:
