@@ -33,6 +33,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam27k&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 </div>
 
+<div>
+    <img src="https://wakatime.com/share/@018cc610-ddbb-4595-b378-ab5af34a4feb/0c69c496-77cf-4ef0-b17d-d994662b78ea.png"   />
+    
+</div>
+
+
 <br />
 
 ### Here are some stats of my github profile:
